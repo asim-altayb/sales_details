@@ -15,6 +15,6 @@
         'views/wizard.xml',
     ],
     'installable': True,
-    'website': 'https://www.wedo.net',
+    'website': 'https://www.wedo-tech.net',
     
 }
